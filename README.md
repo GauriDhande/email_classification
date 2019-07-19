@@ -5,9 +5,10 @@ This dataset was collected from Enron Corporation headquarters in Houston during
 
 # Requirements:
 ```
-Numpy: pip install numpy
-Pandas: pip install pandas
-Tensorflow: pip install tensorflow (for cpu)
-            pip install tensorflow-gpu (for gpu)
-keras: pip install keras
+Install Numpy: pip install numpy
+Install Pandas: pip install pandas
+Install Tensorflow: pip install tensorflow (for cpu)
+                    pip install tensorflow-gpu (for gpu)
+Install keras: pip install keras
+Install scikit-learn: pip install sklearn
 ```
