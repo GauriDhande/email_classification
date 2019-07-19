@@ -11,4 +11,5 @@ Install Tensorflow: pip install tensorflow (for cpu)
                     pip install tensorflow-gpu (for gpu)
 Install keras: pip install keras
 Install scikit-learn: pip install sklearn
+Install Matplotlib: pip install matplotlib
 ```
